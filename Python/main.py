@@ -5,4 +5,8 @@ for i in range(10):
 
 for i in range(20, -1, -1):
     print(i)
- 
+
+i = 0
+while 10 > i:
+    print("Hello, World!!!")
+    i += 1
